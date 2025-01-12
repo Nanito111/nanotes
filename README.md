@@ -1,2 +1,2 @@
 # nanotes
-a minimalist note taking app
+a powerful note taking app
